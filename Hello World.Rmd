@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+author: "Preeya Mistry"
+date: "7/15/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This a markdown file
+
